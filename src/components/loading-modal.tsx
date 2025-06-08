@@ -13,7 +13,6 @@ const steps = [1, 2, 3, 4];
 
 export function LoadingScreen() {
   const [currentStep, setCurrentStep] = useState(1);
-  const [isLoading, setIsLoading] = useState(true);
   const router = useRouter();
 
   useEffect(() => {
@@ -41,7 +40,6 @@ export function LoadingScreen() {
               key={step}
               step={step}
               className="[&:not(:last-child)]:flex-1"
-              loading={isLoading && step === currentStep}
             >
               <StepperIndicator />
               {step < steps.length && <StepperSeparator />}

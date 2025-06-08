@@ -20,7 +20,6 @@ import {
 import { Home } from "lucide-react"
 import Link from "next/link"
 import { useState } from "react"
-import Image from "next/image"
 
 export default function Sidebar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
@@ -35,7 +34,7 @@ export default function Sidebar() {
     children,
   }: {
     href: string
-    icon: any
+    icon: React.ElementType
     children: React.ReactNode
   }) {
     return (
