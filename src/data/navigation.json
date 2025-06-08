@@ -1,0 +1,24 @@
+{
+  "mainNav": [
+    {
+      "title": "Features",
+      "href": "#features"
+    },
+    {
+      "title": "Pricing",
+      "href": "#pricing"
+    }
+  ],
+  "socialLinks": [
+    {
+      "title": "Sign in",
+      "href": "#signin"
+    },
+    {
+      "title": "1.2k",
+      "href": "https://github.com/yourusername/xai",
+      "icon": "github",
+      "count": "1.2k"
+    }
+  ]
+} 

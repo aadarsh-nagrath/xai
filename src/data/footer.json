@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "title": "Product",
+      "links": [
+        "Features",
+        "Pricing",
+        "Analytics",
+        "Scheduler",
+        "AI Tools",
+        "Automation",
+        "API",
+        "Enterprise"
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        "Documentation",
+        "Blog",
+        "Tutorials",
+        "Case Studies",
+        "Webinars",
+        "Community",
+        "Support",
+        "Status"
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        "About",
+        "Careers",
+        "Contact",
+        "Press",
+        "Partners",
+        "Terms",
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title": "Social",
+      "links": [
+        "Twitter",
+        "GitHub",
+        "Discord",
+        "LinkedIn",
+        "YouTube",
+        "Instagram",
+        "Facebook"
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        "Terms of Service",
+        "Privacy Policy",
+        "Cookie Policy",
+        "GDPR",
+        "CCPA",
+        "Security",
+        "Compliance"
+      ]
+    }
+  ]
+} 

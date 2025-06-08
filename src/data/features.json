@@ -1,0 +1,81 @@
+{
+  "features": [
+    {
+      "title": "AI Tweet Enhancement",
+      "description": "Transform your tweets with AI-powered suggestions for better engagement and impact.",
+      "icon": "brain",
+      "highlights": [
+        "Smart tone adjustment",
+        "Hashtag optimization",
+        "Engagement prediction",
+        "A/B testing suggestions"
+      ]
+    },
+    {
+      "title": "Analytics Dashboard",
+      "description": "Track your Twitter growth with detailed analytics and insights.",
+      "icon": "database",
+      "highlights": [
+        "Real-time engagement metrics",
+        "Follower growth tracking",
+        "Content performance analysis",
+        "Best posting times"
+      ]
+    },
+    {
+      "title": "Tweet Scheduler",
+      "description": "Plan and schedule your tweets for optimal engagement.",
+      "icon": "zap",
+      "highlights": [
+        "Smart scheduling",
+        "Content calendar",
+        "Bulk scheduling",
+        "Time zone optimization"
+      ]
+    },
+    {
+      "title": "Content Ideas",
+      "description": "Never run out of tweet ideas with AI-generated content suggestions.",
+      "icon": "play",
+      "highlights": [
+        "Trend-based suggestions",
+        "Industry-specific ideas",
+        "Engagement-focused content",
+        "Personalized recommendations"
+      ]
+    },
+    {
+      "title": "Audience Insights",
+      "description": "Understand your audience better with detailed demographic and behavioral analysis.",
+      "icon": "shield",
+      "highlights": [
+        "Demographic breakdown",
+        "Interest analysis",
+        "Engagement patterns",
+        "Growth opportunities"
+      ]
+    },
+    {
+      "title": "Competitor Analysis",
+      "description": "Track and analyze your competitors' performance and strategies.",
+      "icon": "globe",
+      "highlights": [
+        "Performance comparison",
+        "Content strategy insights",
+        "Engagement benchmarking",
+        "Growth tracking"
+      ]
+    },
+    {
+      "title": "Automated Engagement",
+      "description": "Save time with smart automation while maintaining authenticity.",
+      "icon": "hardDrive",
+      "highlights": [
+        "Smart replies",
+        "Auto-threading",
+        "Engagement filtering",
+        "Custom automation rules"
+      ]
+    }
+  ]
+} 
